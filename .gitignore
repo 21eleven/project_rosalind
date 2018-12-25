@@ -1,0 +1,10 @@
+* 
+
+!*.*
+!*/
+
+*.swp
+*.pyc
+
+target.txt
+test.txt
