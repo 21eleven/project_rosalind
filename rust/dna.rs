@@ -1,3 +1,6 @@
+// http://rosalind.info/problems/dna/
+// Counting DNA Nucleotides
+
 use std::fs;
 
 fn main() {
